@@ -1,24 +1,27 @@
 ## Welcome to 肖成龙的 GitHub 个人主页
 
 ### 自我介绍
+- 姓名：肖成龙
+- 性别：男
+- 政治面貌：中共预备党员
+- 学历: 石家庄铁道大学  软件工程（本科）  2017级  
+- 英语水平:六级
+- 联系方式 :1620033174@qq.com
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 奖惩情况
+- 2017年军训优秀个人
+- 2018年优秀班干部
+- 2018年军训教官
+- 三次二等奖学金
+- 两次单项奖学金
+- 四项软件著作权
+- 2018校级优秀团员
+- 2019校级网页设计大赛优秀奖
+- 2020年调研河北省级二等奖
 
-**Bold** and _Italic_ and `Code` text
+### 个人技能
+- springboot的基本使用
+- 掌握java语言，熟悉python，c语言，c++,php
+- 掌握java+servlet+javabean的开发
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1620033174/-.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
